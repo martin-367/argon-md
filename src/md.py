@@ -1,4 +1,5 @@
 # core simulation logic
+import numpy as np
 
 N = 100 # number of particles
 L = 10.0 # box size
