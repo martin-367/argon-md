@@ -1,2 +1,3 @@
 # argon-md
-Molecular dynamics simulation of argon using Lennard-Jones potential
+Molecular dynamics simulation of argon
+- working ion implementation of lennard-jones potential
